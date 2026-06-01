@@ -1,4 +1,4 @@
-# SkillSnap Portfolio & Tracker Microsoft Ful Stack Capstone
+# SkillSnap Portfolio & Tracker Microsoft Full Stack Developer Capstone
 > Written by Brian McCarthy
 
 ## Table of Contents
