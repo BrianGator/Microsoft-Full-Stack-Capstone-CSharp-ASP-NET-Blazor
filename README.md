@@ -39,6 +39,12 @@
 ## File Structure
 ```text
 SkillSnap/
+├── src/
+│   ├── App.tsx
+│   ├── data.ts
+│   ├── index.css
+│   ├── main.tsx
+│   └── vite-env.d.ts
 ├── SkillSnap.Api/
 │   ├── Controllers/
 │   │   ├── AuthController.cs
