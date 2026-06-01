@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft-Full-Stack-Capstone-CSharp-ASP-NET-Blazor",
+  "description": "Microsoft-Full-Stack-Capstone Project using C#, HTML, CSS, JavaScript, Blazor, SQL, ASP.NET Core, Entity Framework Core",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
