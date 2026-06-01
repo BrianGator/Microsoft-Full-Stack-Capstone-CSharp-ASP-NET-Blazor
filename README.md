@@ -1,6 +1,4 @@
-# SkillSnap Portfolio & Project Tracker 
-<img width="563" height="177" alt="image" src="https://github.com/user-attachments/assets/90decbc9-f748-4a7a-b36e-f6e5b21ec2aa" /> <br>
-Microsoft Full-Stack Developer Capstone Project 
+# SkillSnap Portfolio & Tracker Microsoft Full Stack Developer Capstone
 > Written by Brian McCarthy
 
 ## Table of Contents
