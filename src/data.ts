@@ -100,9 +100,13 @@ export const MOCK_DB_TABLES = {
 };
 
 export const MOCK_ASSETS = [
-  { id: 1, name: "profile_photo.jpg", type: "Image", size: "1.2 MB", uploadDate: "2024-01-15" },
-  { id: 2, name: "architecture_diagram.pdf", type: "Document", size: "3.4 MB", uploadDate: "2024-02-20" },
-  { id: 3, name: "app_icon.png", type: "Icon", size: "450 KB", uploadDate: "2024-03-05" },
-  { id: 4, name: "resume_update.docx", type: "Document", size: "2.1 MB", uploadDate: "2024-05-10" },
-  { id: 5, name: "hero_banner.jpg", type: "Image", size: "4.5 MB", uploadDate: "2024-05-15" }
+  { id: 1, name: "cms_asset_library_screenshot.png", type: "Image", size: "1.2 MB", uploadDate: "2024-01-15" },
+  { id: 2, name: "cms_user_management_screenshot.png", type: "Image", size: "3.4 MB", uploadDate: "2024-02-20" },
+  { id: 3, name: "cms_portfolio_screenshot.png", type: "Image", size: "450 KB", uploadDate: "2024-03-05" },
+  { id: 4, name: "performance_benchmarks_screenshot.png", type: "Image", size: "2.1 MB", uploadDate: "2024-05-10" },
+  { id: 5, name: "security_screenshot.png", type: "Image", size: "4.5 MB", uploadDate: "2024-05-15" },
+  { id: 6, name: "api_data_console_screenshot.png", type: "Image", size: "1.8 MB", uploadDate: "2024-05-16" },
+  { id: 7, name: "sql_relational_data_screenshot.png", type: "Image", size: "2.2 MB", uploadDate: "2024-05-16" },
+  { id: 8, name: "skills_dashboard_screenshot.png", type: "Image", size: "4.1 MB", uploadDate: "2024-05-17" },
+  { id: 9, name: "project_tracking_kanban_screenshot.png", type: "Image", size: "3.3 MB", uploadDate: "2024-05-18" }
 ];
